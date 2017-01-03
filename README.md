@@ -9,13 +9,9 @@ This is a projectile simulator made using the FLTK library.
 
 If you do not have FLTK already set-up, you might want to check out [this youtube video](https://www.youtube.com/watch?v=UUsZAEEn1cw).
 
-Clone the repository after that, go to the source folder, make the project and run.
-
-```
-cd ${REPO_DIR}/src
-make
-./Simulator
-```
+- Go to src folder : ```cd ${REPO_DIR}/src```
+- Make the project : ```make```
+- Run it : ```./Simulator```
 
 
 ## Demo
